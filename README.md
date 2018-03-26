@@ -25,6 +25,6 @@ Getting serious with templates and libraries.
 Back to some basics.
 
 11. [Text input](11-text-input/index.html)
-12. [Select option](12-select/index.html)
+12. [Select option](12-select-option/index.html)
 
 *3-5 in (ES5 syntax), everything else in ECMAScript 2015 (aka ES6) syntax.*
