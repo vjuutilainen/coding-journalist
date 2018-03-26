@@ -1,0 +1,28 @@
+body {
+  font-family: Arial;
+  background: black;
+  color: white;
+}
+
+.column {
+  width: 94%;
+  max-width: 650px;
+  margin: auto;
+}
+
+.pets {
+  text-align: center;
+}
+
+.pets img {
+  width: 25%;
+  border-radius: 50%;
+}
+
+a {
+  color: cyan;
+}
+
+button {
+  margin-bottom: 10px;
+}
