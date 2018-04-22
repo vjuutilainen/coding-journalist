@@ -23,4 +23,8 @@ Various examples.
 - [Text input](11-text-input/index.html)
 - [Select option](12-select-option/index.html)
 
+## Common scenarios
+
+- [DataTables](13-datatables/index.html)
+
 *3-5 in (ES5 syntax), everything else in ECMAScript 2015 (aka ES6) syntax.*
