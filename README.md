@@ -26,5 +26,7 @@ Various examples.
 ## Common scenarios
 
 - [DataTables](13-datatables/index.html)
+- [Map Markers](14-map-markers/index.html)
+- [TopoJSON](15-topojson/index.html)
 
 *3-5 in (ES5 syntax), everything else in ECMAScript 2015 (aka ES6) syntax.*
