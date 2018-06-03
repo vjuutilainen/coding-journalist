@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+.square-container {
+  line-height: 0;
+}
+
+.square {
+  border: 1px solid white;
+  height: 10px;
+  width: 10px;
+  display: inline-block;
+  box-sizing: border-box;
+}

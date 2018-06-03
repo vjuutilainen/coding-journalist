@@ -1,0 +1,736 @@
+area,apartment,type,squares,price,squareprice,year,floor,elevator,condition,energy
+Ullanlinna,"3h, k, kph, vh,...",kt,70.00,632000,9029,1961,7/8,on,hyvä,F2014
+Lauttasaari,"3h, k, p",kt,71.50,333000,4657,1977,6/6,on,huono,E2007
+Myllypuro,3h+k+kph+wc+par...,kt,75.00,207500,2767,1987,2/2,ei,hyvä,E
+Maunula,"3 h, k, kph, er...",kt,76.80,210000,2734,1971,4/4,on,tyyd.,E2007
+Viikki,3H+K+S,kt,77.00,299000,3883,2004,4/6,on,hyvä,E
+Kruununhaka,"3h, k, kph, wc",kt,78.40,590500,7532,1913,4/4,on,tyyd.,
+Taka-töölö,"3h, avokeittiö...",kt,79.50,494500,6220,1938,1/6,on,hyvä,E2007
+Punavuori,"3h,k,rt,kph,s,p...",kt,80.00,844000,10550,2018,6/6,on,hyvä,D2013
+Eiranranta,"3h, k, rt, kph,...",kt,81.50,815000,10000,2008,1/7,on,hyvä,F2014
+Katajanokka,3h+kt+s,kt,88.00,760750,8645,2018,2/7,on,hyvä,
+Punavuori,"3h, avok, kph, ...",kt,78.50,487500,6210,1971,4/6,ei,hyvä,
+Punavuori,"3h,k,s, parveke",kt,121.00,815000,6736,1891,3/4,ei,hyvä,
+Meilahti,"3h, k, kph",kt,67.50,428000,6341,1946,2/6,on,hyvä,E2015
+Hakaniemi,3h+k+kph,kt,70.00,470500,6721,1928,5/7,on,hyvä,
+Lauttasaari,3h + k,kt,74.00,467663,6320,1965,1/3,ei,hyvä,F
+Kulosaari,"3h, k,kph,vaate...",kt,75.50,390000,5166,1961,1/4,on,hyvä,
+Vuosaari,"3h, k, kph, las...",kt,77.50,235000,3032,1965,2/4,on,hyvä,
+Maunula,"3 h, avok., kph...",kt,78.50,390000,4968,2013,3/3,on,hyvä,B2007
+Viikinmäki,"3h, k, s",kt,79.50,311000,3912,2014,1/3,ei,hyvä,
+Kruununhaka,"3h, halli, k, k...",kt,113.00,852500,7544,1926,3/7,on,hyvä,C2007
+Punavuori,"3h, avok, kph, vh",kt,63.00,453000,7190,1959,2/5,on,hyvä,F2015
+Roihuvuori,"3h, k, kph, par...",kt,68.00,206000,3029,1965,3/8,on,hyvä,E
+Pihlajisto,"3h, k, kph, vh,...",kt,70.00,145000,2071,1978,4/4,ei,hyvä,
+Lauttasaari,"3h, k, s, p",kt,74.00,540200,7300,2017,2/6,on,hyvä,C
+Kamppi,3h+k+kph+halli,kt,80.00,505000,6313,1924,1/5,on,hyvä,D2007
+Etu-töölö,"3h, k",kt,81.50,496000,6086,1925,4/6,ei,tyyd.,
+Ruskeasuo,"4r,k, inglasad ...",kt,102.00,510000,5000,2006,1/8,ei,hyvä,
+Jätkäsaari,"3 h, k, kh-s, k...",kt,106.00,770000,7264,1995,6/6,on,hyvä,D2007
+Malminkartano,"3h, kk, ruokail...",kt,61.50,215000,3496,2008,2/4,on,hyvä,
+Niemenmäki,"3h, k, kph + la...",kt,63.00,252000,4000,1962,3/8,on,hyvä,E2007
+Yliskylä,"3h, k, kph, las...",kt,67.50,212000,3141,1975,2/3,ei,hyvä,F
+Aurinkolahti,3h+k+kph/s+las....,kt,70.50,344000,4879,2011,5/6,ei,hyvä,
+Puotila,3h+k+kh+parv.,kt,74.00,170000,2297,1960,2/3,ei,tyyd.,
+Puistola,"3h, k",kt,74.50,161000,2161,1974,2/2,ei,hyvä,E
+Hermanni,3h+k+sauna/kph+...,kt,84.00,485000,5774,2009,3/4,on,hyvä,C2013
+Taka-töölö,"3h, k, kph, eri...",kt,60.00,429150,7153,1936,5/6,on,hyvä,G
+Hietalahti,"3h, k",kt,69.00,461000,6681,1926,4/5,on,hyvä,
+Koskela,3h+k+kph+wc+vh+...,kt,74.50,185000,2483,1972,2/5,ei,hyvä,F2013
+Puotinharju,3h+k+kph+parveke,kt,67.50,137000,2030,1962,6/7,on,tyyd.,E2007
+Malminkartano,"3h, k, erill.wc...",kt,73.00,182000,2493,1989,1/3,ei,tyyd.,
+Myllypuro,"3h, k, vh, kph,...",kt,65.00,149000,2292,1965,3/4,ei,hyvä,
+Maunula,"3h,k",kt,73.50,249000,3388,1962,2/4,ei,tyyd.,
+Ullanlinna,"3h,k,parveke",kt,74.50,490000,6577,1973,3/5,ei,tyyd.,
+Ullanlinna,"3h, k, kph, vh,...",kt,75.30,595000,7902,1961,5/7,on,hyvä,F2014
+Lauttasaari,"3h, vh, k, kph, p",kt,63.50,381320,6005,1962,2/4,on,tyyd.,F
+Vuosaari,3h+k+parveke,kt,68.70,208000,3028,1964,2/5,on,hyvä,
+Lauttasaari,3h+k,kt,67.00,359983,5373,1951, ,ei, ,F
+Pitäjänmäki,"3h, k, kph, las...",kt,74.00,340000,4595,2001,4/5,on,hyvä,E2014
+Herttoniemi,3h+kt+s,kt,74.00,364600,4927,2019,6/7,on,hyvä,C
+Munkkivuori,"3h, k, kh, par...",kt,76.00,335000,4408,1956,8/8,on,tyyd.,E2007
+Etelä-haaga,"3h, k, kph, vh,...",kt,66.00,339000,5136,1958,2/4,ei,tyyd.,
+Herttoniemi,3h+kt,kt,73.00,366510,5021,2019,7/7,on,hyvä,C
+Lauttasaari,3h+k+s,kt,92.50,548000,5924,2002,6/8,on,hyvä,
+Munkkiniemi,"3h, k, p",kt,77.00,478000,6208,1954,3/5,on,hyvä,
+Lauttasaari,"3-4 h, k, 2p",kt,94.50,415000,4392,1973,6/6,on,tyyd.,
+Ullanlinna,"3h, avok, kph, wc",kt,74.00,592200,8003,1907,4/4,ei,hyvä,F2013
+Puistola,3h+k,kt,75.00,140000,1867,1975,2/2,ei, ,E
+Pasila,3h+kt,kt,53.00,242327,4572,2019,2/8,on,hyvä,C
+Vesala,3h+k,kt,68.00,145000,2132,1986,2/3,ei,tyyd.,
+Kannelmäki,"3h, k, vh, p",kt,76.00,184000,2421,1983,4/6,on,tyyd.,D2007
+Oulunkylä,3h+kk,kt,54.00,250000,4630,1956,1/4,ei,hyvä,F
+Itäkeskus,"3h, k, kph, iso...",kt,65.00,203000,3123,1979,3/4,ei,hyvä,
+Länsi-pasila,3h+k+s,kt,80.00,410000,5125,2008,5/7,on,hyvä,C2007
+Hakaniemi,"3h, avokeittiö...",kt,59.50,401000,6739,1985,5/8,on,hyvä,E2013
+Pihlajisto,"3h, k, kh, wc, p",kt,72.50,160000,2207,1975,2/7,on,tyyd.,D2007
+Kannelmäki,"3h, k, p",kt,74.50,210000,2819,1978,3/4,on,hyvä,D2007
+Aurinkolahti,"3 h, k, s, eril...",kt,88.00,430000,4886,2013,5/6,on,hyvä,A2007
+Pihlajamäki,3-4h+k,kt,67.50,183000,2711,1962,1/4,ei,hyvä,E2007
+Munkkiniemi,"2-3h, rt, avok,...",kt,69.50,400000,5755,1957,3/3,on,hyvä,F
+Herttoniemi,3h+kt,kt,57.00,309520,5430,2019,5/7,on,hyvä,C
+Kruununhaka,3-4h+avok+kph/w...,kt,97.00,545000,5619,1911,2/2,ei,tyyd.,F2013
+Pasila,3h+kt,kt,53.00,265770,5015,2019,3/8,on,hyvä,C
+Alppila,"3h, k, kph, p",kt,63.50,293000,4614,1961,2/4,on,tyyd.,F2013
+Munkkivuori,"3h, k, p",kt,67.00,295000,4403,1958,2/4,ei,tyyd.,G
+Kannelmäki,"3h,k, ranskalai...",kt,69.00,215000,3116,1959,1/3,ei,tyyd.,D2007
+Roihuvuori,"3h, k, kph, vh,...",kt,71.00,240000,3380,1959,4/4,ei,hyvä,F2013
+Veräjämäki,"3h, avok, erill...",kt,73.00,270000,3699,1979,2/3,ei,tyyd.,E2013
+Herttoniemi,3h+kt+s,kt,74.00,355110,4799,2019,5/7,on,hyvä,C
+Vuosaari,3h+k,kt,75.00,168750,2250,1991,2/3,ei,tyyd.,E2007
+Pikku-huopalahti,"3h, k, s",kt,76.50,340000,4444,1991,3/3,ei,hyvä,D2007
+Vuosaari,"3h, k, s",kt,78.00,190000,2436,1995,2/6,on,hyvä,F
+Lauttasaari,"3 h, avok, kph,...",kt,84.50,519000,6142,2001,1/5,on,hyvä,F2013
+Lauttasaari,"3 h, k, kh, wc, p",kt,85.00,425000,5000,1950,4/5,on,tyyd.,B2007
+Pasila,3h+kt,kt,54.00,270000,5000,2019,3/8,on,hyvä,C
+Etelä-haaga,"2-3h, k, kph, p...",kt,58.00,336000,5793,1958,2/3,ei,hyvä,G2007
+Aurinkolahti,"3 huonetta, kei...",kt,81.00,415000,5123,2013,5/5,ei,hyvä,A
+Käpylä,"3h, k",kt,92.00,400000,4348,1924,3/4,ei,hyvä,
+Vuosaari,"3h, k, kph, las...",kt,63.00,187000,2968,1966,2/3,ei,hyvä,E2007
+Punavuori,"3h, avok, kph, ...",kt,76.00,684000,9000,1931,7/7,on,hyvä,
+Alppila,"3h, k, parveke",kt,67.50,395000,5852,2001,5/7,on,hyvä,
+Hakaniemi,"3h, k, kph, las...",kt,69.00,395000,5725,1985,6/14,on,hyvä,D2007
+Viikki,"3 huonetta, kk,...",kt,69.50,297000,4273,2004,2/6,on,hyvä,D2013
+Herttoniemi,"3h,k,s",kt,80.00,398000,4975,2007,6/7,on,hyvä,E
+Aurinkolahti,3h+k+s+kph+eril...,kt,80.00,415940,5199,2004,5/5,on,tyyd.,F
+Lauttasaari,"3h, k, kph, par...",kt,60.00,360550,6009,1960,5/5,on,hyvä,G
+Meilahti,"3h, kk, kph, vh, p",kt,64.50,397500,6163,1949,5/8,on,hyvä,D2007
+Roihuvuori,"3h, kt",kt,65.50,286900,4380,2017,6/6,on,hyvä,C
+Kuninkaantammi,3h+kt+s,kt,70.00,299500,4279,2019,4/4,on,hyvä,C2007
+Vallila,"3h, k, ikk.kh,v...",kt,70.00,320000,4571,1963,1/3,ei,hyvä,E2007
+Kontula,"3h, k, lasitett...",kt,75.00,135000,1800,1967,8/8,on,hyvä,G2013
+Mellunmäki,"3h,k,s",kt,76.00,190000,2500,1978,4/5,on,hyvä,E2007
+Taka-töölö,"3 h, ruokasali,...",kt,93.00,615000,6613,1939,3/3,ei,hyvä,E2007
+Eira,"3h, k, halli, k...",kt,96.00,1060000,11042,1912,2/3,ei,hyvä,F
+Pasila,3h+kt,kt,53.00,305340,5761,2019,8/8,on,hyvä,C
+Puotila,"3h, k, kph",kt,60.00,200000,3333,1961,2/3,ei,hyvä,
+Tapaninvainio,"3h, k, kph, khh...",kt,66.00,239000,3621,2017,1/6,on,hyvä,C2017
+Kuninkaantammi,3h+kt+s,kt,70.00,309000,4414,2019,4/4,on,hyvä,C2007
+Pasila,3h+kt,kt,54.00,261480,4842,2019,2/8,on,hyvä,C
+Lassila,"3h, kk, kph, piha",kt,58.50,240000,4103,1983,1/2,ei,hyvä,
+Katajanokka,3h,kt,63.00,550000,8730,1885,5/6,on,hyvä,G
+Herttoniemi,3h+kt+s,kt,74.00,343710,4645,2019,4/7,on,hyvä,C
+Viikki,"3-4h, k, kph/s,...",kt,96.50,313000,3244,2006,3/6,on,hyvä,
+Malmi,"3h, k, kph, las...",kt,72.00,175000,2431,1984,3/3,ei,tyyd.,F
+Maunula,3h+k+kph+vh,kt,74.00,222500,3007,1972,2/4,on,hyvä,E
+Herttoniemi,3h+kt+s,kt,74.00,334230,4517,2019,3/7,on,hyvä,C
+Meilahti,"3h, k, et, kph,...",kt,90.00,473880,5265,1939,1/3,ei,tyyd.,
+Taka-töölö,"3h, k",kt,60.00,443000,7383,1934,2/6,on,hyvä,D2007
+Käpylä,"2-3h, k, kph, p...",kt,63.00,258000,4095,1952,1/3,ei,huono,F2013
+Punavuori,"3h, k ja lasite...",kt,69.50,395000,5683,1977,1/6,on,tyyd.,F2013
+Aurinkolahti,"3h,kt,s",kt,71.00,365000,5141,2017,5/7,on,hyvä,C
+Lauttasaari,"3 h, avok, kph,...",kt,72.00,363000,5042,1974,3/5,on,hyvä,
+Malminkartano,3h+avok.+kph-s+...,kt,74.50,205000,2752,1988,2/3,ei,hyvä,
+Myllypuro,"3h,k,kph,wc,las...",kt,78.00,158000,2026,1965,4/4,ei,tyyd.,D2007
+Pohjois-haaga,"3h, k, kph, las...",kt,81.50,230000,2822,1972,1/3,ei,hyvä,D2007
+Sörnäinen,"3h,k",kt,61.00,241000,3951,1965,5/7,on,tyyd.,D2007
+Ruskeasuo,"3h, k, lasitett...",kt,67.50,298000,4415,1969,2/3,on,tyyd.,G2013
+Vesala,"3h, k, kph, sau...",kt,68.50,190000,2774,1989,2/3,ei,hyvä,
+Vuosaari,"3h, k, kph, eri...",kt,77.00,189500,2461,1967,5/7,on,tyyd.,F
+Malminkartano,3h+k+s,kt,80.00,261000,3263,2008,4/4,on,hyvä,D
+Oulunkylä,"3h, k, kph, s, ...",kt,75.00,357500,4767,2014,2/4,on,hyvä,
+Lauttasaari,"3h, k, kph, vh, p",kt,67.50,286500,4244,1977,3/5,on,tyyd.,D2007
+Käpylä,"3h, k, parveke",kt,77.00,490000,6364,2017,2/6,on,hyvä,C2013
+Pitäjänmäki,"1-3h, k, wc, kph",kt,95.50,494000,5173,2009,2/3,on,hyvä,F2013
+Aurinkolahti,"3h,kt,s",kt,71.00,380000,5352,2017,6/7,on,hyvä,C
+Metsälä,"3h, k",kt,75.10,275000,3662,1967,2/2,ei,tyyd.,F2007
+Arabia,"2h, k, kph, s, ...",kt,98.50,355000,3604,2005,-1/6,on,hyvä,
+Hakuninmaa,"3 h, k, s",kt,68.00,225000,3309,1987,1/2,ei,hyvä,F
+Vallila,3h+k+2kph+s,kt,114.50,495000,4323,1923,-1/5,ei,hyvä,
+Kannelmäki,3h+k+p,kt,69.50,205000,2950,1961,3/3,ei,hyvä,E
+Itäkeskus,"3h, k, kph, ter...",kt,73.00,200000,2740,1983,1/3,ei,hyvä,D2007
+Lauttasaari,"3h, kph, s, wc,...",kt,75.00,435000,5800,2003,4/7,on,tyyd.,E
+Herttoniemi,3h+kt,kt,57.00,286780,5031,2019,2/7,on,hyvä,C
+Herttoniemi,3h+kt,kt,57.00,286780,5031,2019,2/7,on,hyvä,C
+Herttoniemi,3h+kt,kt,57.00,292450,5131,2019,3/7,on,hyvä,C
+Herttoniemi,3h+kt,kt,57.00,292450,5131,2019,3/7,on,hyvä,C
+Herttoniemi,3h+kt,kt,57.00,300030,5264,2019,4/7,on,hyvä,C
+Maunula,3h+k,kt,73.50,186000,2531,1972,4/4,on,hyvä,
+Herttoniemi,3h+kt+s,kt,74.00,328550,4440,2019,2/7,on,hyvä,C
+Herttoniemi,3h+kt+s,kt,74.00,343710,4645,2019,4/7,on,hyvä,C
+Herttoniemi,3h+kt+s,kt,74.00,355110,4799,2019,5/7,on,hyvä,C
+Herttoniemi,3h+kt+s,kt,74.00,364600,4927,2019,6/7,on,hyvä,C
+Vuosaari,"3h, k, kph, eri...",kt,81.00,175000,2160,1969,6/8,on,tyyd.,
+Suurmetsä,"3h, k, lasitett...",kt,78.50,123000,1567,1971,3/3,on,tyyd.,
+Munkkivuori,"3h, k, kph, par...",kt,61.00,260000,4262,1958,2/4,ei,huono,
+Oulunkylä,"3h, avokeittiö...",kt,64.00,258000,4031,1957,4/4,ei,tyyd.,D2007
+Munkkivuori,"3 h, k, p",kt,67.00,280000,4179,1958,4/4,ei,tyyd.,G
+Kruununhaka,"3h, k, kph, s, ...",kt,74.00,492000,6649,1962,5/6,on,tyyd.,E2007
+Veräjämäki,"3 h, k, kph, vh...",kt,76.80,242000,3151,1964,2/3,ei,tyyd.,D2007
+Taka-töölö,"3h, k, s,parvek...",kt,94.00,530000,5638,1937,3/6,on,tyyd.,G
+Kaartinkaupunki,"3-4h, k, kph, s...",kt,131.50,1005000,7643,1928,6/6,on,hyvä,
+Konala,3h+kk+parveke,kt,60.00,158000,2633,1963,1/5,on,tyyd.,E
+Kannelmäki,3h+avok+kph+las...,kt,65.00,250000,3846,1964,3/4,on,tyyd.,D2007
+Kannelmäki,3 h + k + s,kt,69.50,224000,3223,1985,2/6,on,hyvä,F2007
+Meri-rastila,"3h, k, kph + pa...",kt,71.50,161000,2252,1991,2/3,ei,tyyd.,F
+Kulosaari,"3h,k,kph, erill...",kt,72.50,357500,4931,1974,1/4,on,hyvä,E2007
+Kontula,"3h, k, kph, wc,...",kt,75.00,125000,1667,1966,8/9,on,tyyd.,E
+Kulosaari,"3h, k, kph, las...",kt,75.00,460000,6133,1959,1/4,on,hyvä,F2013
+Punavuori,"2-3h, kk, kph, ...",kt,75.00,553500,7380,2002,5/7,on,hyvä,B2013
+Vallila,3h+k+s+lasitett...,kt,81.50,416000,5104,2013,2/5,on,hyvä,F
+Taka-töölö,"3h, k, kph, wc, vh",kt,98.00,635000,6480,1925,4/6,on,hyvä,
+Lauttasaari,"3h, k, kph, p",kt,65.00,415000,6385,1956,4/4,on,hyvä,E2007
+Munkkivuori,"3h, k, kph, par...",kt,66.00,270000,4091,1957,6/10,ei,hyvä,
+Aurinkolahti,"3h,kt,s",kt,69.50,370000,5324,2017,6/7,on,hyvä,C
+Töölö,3h+k+kph+vh+parv,kt,72.00,374000,5194,1954,1/6,on,tyyd.,G
+Lassila,"3 h, k, s, eril...",kt,73.50,279000,3796,1981,3/4,ei,hyvä,F2007
+Etelä-haaga,"3 h, avok, vh, ...",kt,74.00,320000,4324,1956,4/4,ei,tyyd.,F
+Tapanila,3h+k+kph+s+las....,kt,74.50,222000,2980,1988,3/3,ei,hyvä,E
+Kruununhaka,3h+k+kph+erill.wc,kt,78.40,535000,6824,1913,2/4,on,hyvä,G
+Konala,"3 h, k, p",kt,68.00,202000,2971,1959,3/3,ei,hyvä,F2007
+Aurinkolahti,"3h,kt,s",kt,71.00,355390,5005,2017,3/7,on,hyvä,C
+Herttoniemi,3h+kt,kt,72.00,372230,5170,2019,7/7,on,hyvä,C
+Mellunmäki,3h+k,kt,73.00,165000,2260,1968,1/3,ei,hyvä,E
+Herttoniemi,3h+kt+s,kt,74.00,334230,4517,2019,3/7,on,hyvä,C
+Laajasalo,"3h,k,s, lasitet...",kt,67.00,280000,4179,2009,5/7,ei,hyvä,
+Katajanokka,"3h, k, kph, wc",kt,79.60,595000,7475,1908,4/5,on,tyyd.,
+Vallila,"3h, k, kph, s, ...",kt,79.50,411000,5170,2014,1/6,on,hyvä,
+Etu-töölö,"3 h, k, s",kt,94.50,576300,6098,1932,1/4,on,tyyd.,E2015
+Oulunkylä,"3 h, k, p",kt,63.00,265000,4206,1955,4/4,ei,hyvä,F
+Oulunkylä,"3h, k, p",kt,68.00,185000,2721,1972,1/3,ei,tyyd.,F2007
+Lassila,"3h, k, kph, vh,...",kt,70.50,199900,2835,1980,3/3,ei,tyyd.,
+Myllypuro,"3h, k",kt,77.00,192000,2494,1964,2/4,ei,hyvä,D2007
+Munkkiniemi,3h+k+kph+parv.,kt,64.90,345000,5316,1950,1/6,on,hyvä,
+Kulosaari,3+k+kph+parveke,kt,68.00,307000,4515,1961,3/3,ei,tyyd.,F
+Munkkivuori,3h+k+kph+vh+p+e...,kt,73.00,366000,5014,1958,2/3,on,hyvä,
+Vallila,"3h, k, s, kph, p",kt,54.50,343000,6294,2011,3/6,on,hyvä,C2007
+Oulunkylä,"3 h, k, p",kt,68.00,225000,3309,1972,3/3,ei,hyvä,F2007
+Pohjois-haaga,3h+k,kt,71.00,265000,3732,1954,4/6,on,tyyd.,D2007
+Roihuvuori,"3h, kk, s",kt,73.50,311900,4244,2017,4/5,on,hyvä,C
+Mellunkylä,3h+k,kt,75.00,182000,2427,1991,2/3,ei, ,D
+Eiranranta,"3h, avok, kph, ...",kt,117.00,950000,8120,2007,6/7,on,hyvä,F2014
+Vuosaari,"3h, k, kph, las...",kt,66.00,195000,2955,1965,2/5,on,hyvä,E2007
+Niemenmäki,"3h,k,kph,lasite...",kt,66.50,249000,3744,1962,2/8,ei,tyyd.,
+Punavuori,"3h, keittiö...",kt,69.50,416000,5986,1977,6/6,on,tyyd.,F2013
+Meri-rastila,"3h, k",kt,74.50,172500,2315,1991,2/3,ei,hyvä,E
+Merihaka,"3h,k,lasitettu ...",kt,52.50,256000,4876,1974,12/14,on,tyyd.,F2007
+Pohjois-haaga,"3h, k",kt,64.00,302000,4719,1954,3/3,ei,hyvä,G2007
+Etu-töölö,"3 h, k, halli, ...",kt,94.00,560000,5957,1927,5/7,on,tyyd.,C2007
+Herttoniemenranta,"3h, k, kph, sau...",kt,96.50,565000,5855,2001,4/4,on,hyvä,F2013
+"Vanhankaupunginkoski, viikinranta","3h,kt,kph,s,las...",kt,74.50,346300,4648,2007,1/7,ei,hyvä,
+Kontula,3-4h+k+kph+wc+l...,kt,76.00,118000,1553,1968,4/8,on,tyyd.,G
+Etelä-haaga,"3h, avokeittiö...",kt,60.00,263000,4383,1964,3/3,ei,hyvä,
+Oulunkylä,"3h,avok,s,parveke",kt,66.50,325000,4887,2013,4/5,on,hyvä,A2007
+Roihuvuori,"3h, kt",kt,67.50,289900,4295,2017,6/6,on,hyvä,C
+Kontula,3h+k+kph+wc+2 x...,kt,74.50,130000,1745,1967,1/4,ei,tyyd.,G
+Katajanokka,3h+k (yhtiö...,kt,75.00,454900,6065,1906,2/3,ei,hyvä,D2007
+Viikki,3h+kt+kph,kt,50.00,220000,4400,2017,2/5,on,hyvä,C
+Kontula,"3-4 h, k, kh, w...",kt,76.00,116000,1526,1968,3/8,on,huono,G2007
+Kontula,3h+k,kt,59.50,148526,2496,1966,3/8,on,huono,G
+Patola,"3 h, k, kh, wc, p",kt,76.50,162000,2118,1972,1/3,ei,hyvä,E2007
+Oulunkylä,"3h, k, kph, las...",kt,68.00,269000,3956,1972,3/3,ei,hyvä,
+Kamppi,"3h, k",kt,58.00,327500,5647,1932,3/7,on,hyvä,E
+Ullanlinna,"3h, k, kph, eri...",kt,111.40,957000,8591,1906,2/3,on,hyvä,F2013
+Aurinkolahti,"3h, k, s, lasit...",kt,73.50,330000,4490,2005,4/6,on,hyvä,D
+Hakaniemi,"3h, avokeittiö...",kt,64.00,405000,6328,1993,5/6,on,hyvä,
+Etelä-haaga,"3 h, k, parveke",kt,67.00,335000,5000,1955,2/3,ei,hyvä,G
+Oulunkylä,"3h, k, kph, vh,...",kt,69.00,289000,4188,1963,1/3,ei,tyyd.,F2013
+Kallio,3h+avok+kph+vh+...,kt,70.50,410000,5816,1961,2/6,on,hyvä,
+Vuosaari,"3h,k,s,terassipiha",kt,72.00,179000,2486,1995,1/6,on,hyvä,F
+Pukinmäki,"3h, avok, lasit...",kt,74.50,211500,2839,1976,2/5,on,tyyd.,F
+Lassila,"3h, k, kph, s, ...",kt,75.50,220000,2914,1981,2/4,ei,huono,F2013
+Etu-töölö,3h+avok.+kph/kh...,kt,79.00,505000,6392,1936,5/6,on,hyvä,
+Töölö,"3h, avokeittiö...",kt,79.50,488000,6138,1927,5/6,on,hyvä,E2007
+Pohjois-haaga,3h+k,kt,81.00,210000,2593,1972,1/3,ei,tyyd.,D
+Etu-töölö,"3 h, avokeittiö...",kt,84.00,571000,6798,1920,3/5,on,hyvä,F2013
+Kamppi,"3 h, k, kph, er...",kt,96.00,760000,7917,1938,6/7,on,hyvä,E2007
+Kallio,3h+k,kt,62.00,392000,6323,1961,2/6,on,hyvä,G
+Mellunmäki,"3h, k",kt,66.00,142000,2152,1970,5/5,on,tyyd.,E2007
+Pukinmäki,"3h, k, s, lasit...",kt,74.00,196000,2649,1978,1/3,ei,tyyd.,F2013
+Lauttasaari,"3h, k, s, vh, 2...",kt,100.00,575000,5750,1947,3/4,ei,hyvä,
+Kruununhaka,"3-4 huonetta, k...",kt,129.00,800000,6202,1911,3/5,on,hyvä,D
+Puotinharju,"3h, k, kph, par...",kt,68.00,165000,2426,1962,3/7,on,hyvä,E2007
+Lassila,"3h,k,kph,lasite...",kt,68.00,231500,3404,1982,3/3,ei,tyyd.,D2007
+"Lauttasaari, vattuniemi",3h+k+lasitettu ...,kt,68.50,285000,4161,1974,6/9,ei,tyyd.,
+Itäkeskus,"3h, avok, kph, ...",kt,76.50,219400,2868,1985,1/3,on,hyvä,
+Pohjois-haaga,"3h, k, lasitett...",kt,66.00,291200,4412,1956,3/10,on,hyvä,F2007
+Roihuvuori,"3 h,k, kph, vh, p",kt,70.00,196000,2800,1965,3/5,on,tyyd.,G
+Alppiharju,3h+k+kph+las.pa...,kt,74.00,339000,4581,1970,5/6,on,tyyd.,
+Hietalahti,3h+avok.+kph+s+...,kt,74.70,456000,6104,1902,-1/5,ei,hyvä,
+Eiranranta,"3h, avok, kph, ...",kt,97.50,949000,9733,2007,4/8,on,hyvä,E2014
+Oulunkylä,"3h, k, kph/wc, ...",kt,68.00,219000,3221,1967,2/3,ei,tyyd.,
+Malminkartano,3h+k+kph-s+eril...,kt,75.50,210000,2781,1984,2/3,ei,hyvä,
+Kruununhaka,"2-3h, k, kph, p...",kt,91.00,685000,7527,1912,4/5,on,hyvä,F2017
+Reimarla,"3h, k, sauna, k...",kt,72.50,182000,2510,1980,2/6,on,tyyd.,
+Koskela,"3h, k, kph, vh,...",kt,74.10,180500,2436,1973,5/6,on,tyyd.,G
+Punavuori,"3h,k",kt,104.00,821600,7900,1904,2/5,ei,tyyd.,
+Oulunkylä,"3 h, kt, kh, p",kt,63.50,330000,5197,2015,3/4,on,hyvä,A2007
+Konala,3h+k+kph-wc+las...,kt,68.50,166000,2423,1968,3/3,ei,hyvä,
+Vuosaari,"3h, k, kph, par...",kt,70.00,195000,2786,1967,2/3,ei,hyvä,
+Vuosaari,"3h, k, s, eril....",kt,77.00,205000,2662,1991,2/3,on,hyvä,D
+Meilahti,"3h, avok, kph, ...",kt,57.50,336000,5843,1941,2/4,ei,tyyd.,E2007
+Tapanila,3h+k+kph+s+WC+2...,kt,82.00,270000,3293,2006,2/4,on,hyvä,D
+Mellunmäki,"3h, keittiö...",kt,75.50,165000,2185,1973,2/5,on,hyvä,F2007
+Punavuori,"3h, kk, s",kt,76.00,549000,7224,2002,6/8,on,hyvä,C2007
+Itä-pasila,"3-4-h,k,parveke",kt,83.50,275600,3301,1974,6/8,on,tyyd.,G
+Puotinharju,"3h, k, kh, p",kt,60.00,121000,2017,1966,1/3,ei,tyyd.,G2012
+Puotila,"3h, k, kph, p",kt,73.00,175000,2397,1974,2/3,ei,tyyd.,F2007
+Yliskylä,3h+k,kt,63.00,189000,3000,1965,2/4,on,huono,F2007
+Munkkiniemi,"3-2h,k,kph,lasi...",kt,72.00,468000,6500,1962,3/4,ei,hyvä,
+Vuosaari,3h+k+kph+parv,kt,66.00,173000,2621,1965,1/5,ei,tyyd.,E2007
+Roihuvuori,"3h, kt",kt,67.50,274900,4073,2017,3/6,on,hyvä,
+Aurinkolahti,"3h,kt,s",kt,71.00,397170,5594,2017,7/7,ei,hyvä,C
+Kivihaka,"2 mh, oh, k, kp...",kt,65.60,259500,3956,1961,3/4,on,tyyd.,E
+Roihuvuori,"3h, kt, s",kt,69.50,281900,4056,2017,3/6,on,hyvä,
+Roihuvuori,"3h,kk,rt",kt,72.50,220630,3043,1956,2/4,ei,tyyd.,
+Kannelmäki,"3h, avok, kph, ...",kt,74.50,172000,2309,1978,4/4,on,tyyd.,
+Viikki,"3h, k, erill.wc...",kt,79.00,285000,3608,2011,2/4,on,hyvä,
+Roihuvuori,"3h, kk",kt,69.50,271900,3912,2017,1/5,on,hyvä,
+Roihuvuori,"3h, kt, s",kt,69.50,285900,4114,2017,4/6,on,hyvä,
+Pohjois-haaga,"3h, k, vh, lasi...",kt,62.00,269000,4339,1957,1/3,ei,tyyd.,G
+Roihuvuori,"3h, kt",kt,67.50,284900,4221,2017,5/6,on,hyvä,
+Kallio,"3h,avok, kph,vh",kt,67.50,410000,6074,1929,7/7,on,hyvä,E
+Vuosaari,"3h, wc, kh, iso...",kt,68.70,182500,2656,1964,1/5,ei,hyvä,
+Malminkartano,"3h,k,s",kt,72.00,168000,2333,1987,3/3,ei,tyyd.,F
+Etu-töölö,"3 h, k, kph, vh...",kt,102.20,740000,7241,1912,3/5,on,hyvä,F2007
+Lauttasaari,"3h, halli, k ja...",kt,72.00,325000,4514,1940,3/5,on,tyyd.,G
+Viikki,"3 h, avokeittiö...",kt,75.00,302000,4027,2004,3/6,on,hyvä,C
+Kontula,"3h,k,kph,wc,p",kt,78.00,185000,2372,1965,8/8,on,hyvä,F2007
+Pitäjänmäki,"3h, k, s, kph-w...",kt,79.50,193000,2428,1973,3/6,on,hyvä,
+Lauttasaari,"3 h, k, s, p",kt,81.50,544500,6681,2012,4/6,on,hyvä,B2007
+Munkkiniemi,"3h, k, parveke",kt,82.50,330016,4000,1938,6/6,on,hyvä,D2007
+Vuosaari,3h+k+eteinen+te...,kt,75.00,162000,2160,1971,3/6,on,tyyd.,F2007
+Etu-töölö,"3h, k, s, parveke",kt,93.50,693000,7412,2016,4/8,on,hyvä,C
+Malmi,"3h, k, s",kt,64.50,195000,3023,1987,3/3,ei,hyvä,
+Vuosaari,"3h, k, kph, p, ...",kt,70.00,176000,2514,1968,5/5,on,tyyd.,E
+Munkkivuori,"3-4 h, k, kph, ...",kt,71.00,350000,4930,1959,5/6,on,hyvä,E2007
+Kallio,3h+k+kph,kt,78.00,260000,3333,1963,2/7,on,tyyd.,
+Kallio,3h+avok.+kh,kt,50.00,348000,6960,1939,2/6,on,hyvä,E2007
+Tapanila,"3h, k, s, p ja ...",kt,74.50,215000,2886,1988,2/3,ei,hyvä,E
+Lauttasaari,"3 h, k, p",kt,77.00,433500,5630,1973,6/6,on,hyvä,E
+Lauttasaari,"3h, k, kph, wc,...",kt,86.50,382000,4416,1969,4/4,on,tyyd.,G
+Kontula,3 h+k+kph+vh+pa...,kt,65.00,120000,1846,1969,4/9,on,tyyd.,G
+Oulunkylä,"3h, iso keittiö...",kt,72.00,213000,2958,1977,3/3,ei,tyyd.,F
+Siltamäki,"2 mh, oh, k, kp...",kt,80.50,149000,1851,1969,1/3,ei,tyyd.,F
+Kruununhaka,"3h, k, halli, k...",kt,82.00,572000,6976,1926,1/4,ei,hyvä,C2007
+Lauttasaari,"3 h, avok, kph,...",kt,73.00,486000,6658,2008,5/7,on,hyvä,F
+Eiranranta,"3h, avok, 2 kph...",kt,127.50,1255000,9843,2008,1/7,on,hyvä,
+Mellunmäki,3h+k+kph+s+eril...,kt,67.00,145000,2164,1970,1/5,on,hyvä,E2007
+Punavuori,"3h, avok, 2xkph...",kt,114.00,619000,5430,1912,-1/2,on,hyvä,E2007
+Aurinkolahti,"3h, avok, s, la...",kt,61.00,350000,5738,2012,2/5,on,hyvä,B
+Sörnäinen,3h+k+kph+las.pa...,kt,68.50,267000,3898,1965,4/7,on,hyvä,D
+Eira,"3h, k, kph, vh",kt,74.80,730000,9759,1910,4/4,ei,hyvä,
+Taka-töölö,"2-3 h,keitti...",kt,76.00,380000,5000,1913,2/5,ei,hyvä,
+Jätkäsaari,3(4)h+kt+Sauna+...,kt,108.00,986000,9130,2016,3/7,on,hyvä,C
+Ullanlinna,"3 h, k, kh, eri...",kt,82.00,610000,7439,1927,2/4,on,hyvä,F2007
+Aurinkolahti,"3-4h, k, s, ter...",kt,89.00,449330,5049,2016,5/5,on,hyvä,
+Oulunkylä,"3h, avok., vh, ...",kt,61.00,264000,4328,1956,1/4,ei,hyvä,F
+Etelä-haaga,"3h,k,p",kt,65.00,318000,4892,1961,2/4,ei,tyyd.,D2007
+Kannelmäki,"3h, k, kph, p",kt,66.00,166000,2515,1962,2/3,ei,tyyd.,F
+Kannelmäki,"3h, k, vh, kph ...",kt,66.00,179000,2712,1978,1/4,on,hyvä,D2007
+Konala,"3h, k, kph, vh,...",kt,68.00,190000,2794,1985,2/2,ei,tyyd.,
+Vuosaari,3h+k+parveke,kt,68.70,190000,2766,1964,2/5,on,hyvä,
+Myllypuro,"3h, k",kt,70.00,187000,2671,1964,7/7,on,hyvä,
+Lauttasaari,"3h, avok, kph, ...",kt,71.50,300000,4196,1977,2/7,on,hyvä,E
+Malmi,"3 h, k, kh, vh, p",kt,72.00,180000,2500,1984,2/3,ei,tyyd.,F
+Lauttasaari,"3h, k, län...",kt,72.00,245000,3403,1963,2/4,ei,hyvä,
+Lauttasaari,"3h, k, län...",kt,72.00,255000,3542,1963,2/4,ei,tyyd.,
+Munkkivuori,"3h, k, rt, kph, p",kt,74.00,333000,4500,1956,2/4,ei,tyyd.,
+Vuosaari,"3h, k, rt, kph,...",kt,74.50,189000,2537,1991,1/3,ei,hyvä,F
+Myllypuro,"3h, k, kph, eri...",kt,75.00,187400,2499,1987,2/2,ei,tyyd.,F
+Lauttasaari,"3h, k, s, kph, ...",kt,80.00,515000,6438,2008,5/7,on,hyvä,F
+Käpylä,"3-4 h, k, halli...",kt,84.00,325000,3869,1928,4/4,ei,tyyd.,E2007
+Etu-töölö,"3h, k, kph, wc",kt,98.00,668000,6816,1923,4/6,on,hyvä,D2007
+Lauttasaari,3h+kt+s,kt,105.50,701000,6645,2016,5/6,on,hyvä,C
+Oulunkylä,"3 h, avok, kh, ...",kt,53.50,249000,4654,1956,2/4,ei,hyvä,F
+Käpylä,3h+kk+kph+parveke,kt,57.00,270000,4737,1946,1/3,ei,hyvä,
+Honkasuo,"3h, kt, s, kph,...",kt,69.50,250590,3606,2018,-1/2,ei,hyvä,C
+Honkasuo,"3h, kt, s, kph,...",kt,69.50,250590,3606,2018,-1/2,ei,hyvä,C
+Honkasuo,"3h, kt, s, kph,...",kt,69.50,250590,3606,2018,-1/2,ei,hyvä,C
+Malmi,"3h, k, kph, piha",kt,74.00,168000,2270,1980,1/4,ei,tyyd.,D2007
+Ullanlinna,"3h, k, kph, wc, p",kt,75.50,521850,6912,1973,6/6,on,tyyd.,F
+Munkkiniemi,"3h, k, parveke,...",kt,123.00,598000,4862,1957,2/2,ei,hyvä,
+Pohjois-haaga,"3h, k, kph, vh,...",kt,62.00,265000,4274,1957,3/3,ei,hyvä,G
+Pajamäki,"3h, k, kph, par...",kt,63.00,232000,3683,1958,1/3,ei,tyyd.,E2007
+Laakso,"3 h, k, kp, par...",kt,65.00,345000,5308,1938,3/6,on,tyyd.,F
+Roihuvuori,"3h, kt, s",kt,69.50,296900,4272,2017,6/6,on,hyvä,
+Meilahti,"3h, k, lasit.p",kt,71.50,410000,5734,1965,1/4,on,hyvä,
+Kruununhaka,"3h, k, kph/wc, vh",kt,78.50,508300,6475,1906,3/4,ei,hyvä,F
+Pikku huopalahti,"3h,k,s,kph, wc,...",kt,79.50,388000,4881,1995,3/3,ei,hyvä,
+Vallila,"3h,k,s,kh,lasit...",kt,82.00,419400,5115,2013,4/5,on,hyvä,F
+Kaartinkaupunki,3h+palv.h+kk+kp...,kt,86.00,580000,6744,1936,4/6,on,huono,
+Munkkiniemi,"3h, kk, kph, ra...",kt,57.50,325000,5652,1957,2/6,on,hyvä,G
+Roihuvuori,"3h, k, kph, vh,...",kt,68.00,168000,2471,1965,8/8,on,tyyd.,E
+Vuosaari,"3h, k",kt,70.00,200000,2857,1966,2/3,ei,hyvä,E2007
+Kivihaka,3h+k+vh+sauna+k...,kt,72.00,279000,3875,1978,2/3,ei,hyvä,F
+Ullanlinna,"2-3h, avok, kph...",kt,77.50,745000,9613,1928,3/3,on,hyvä,
+Ullanlinna,"3h, avok, kph, s",kt,78.00,595000,7628,2006,4/5,on,hyvä,
+Taka-töölö,"2h, k, 2 alkovi...",kt,85.00,445000,5235,1927,1/6,on,tyyd.,
+Honkasuo,"3h, kt, s, kph,...",kt,69.50,250590,3606,2018,-1/2,ei,hyvä,C
+Merihaka,3h+k+parv. (Yj....,kt,52.50,270000,5143,1975,7/14,on,tyyd.,
+Töölö,3h+kk+kh+wc,kt,64.50,440000,6822,1913,5/6,on,tyyd.,
+Itäkeskus,"3h, k, kph, p",kt,65.50,189736,2897,1979,4/4,on,tyyd.,E2007
+Roihuvuori,"3h, kt, s",kt,69.50,291900,4200,2017,5/6,on,hyvä,
+Puotila,"3h, k, kph, las...",kt,71.00,208000,2930,1965,2/2,ei,tyyd.,
+Taka töölö,2-3 h +k (yhtiö...,kt,73.00,486000,6658,1935,3/7,ei,hyvä,
+Kontula,3h+k+kh+wc+p,kt,78.00,176000,2256,1964,4/7,on,hyvä,
+Vuosaari,"3h, k, kph, s, ...",kt,78.00,200000,2564,1995,4/5,on,hyvä,F
+Viikki,"3h, k, kph/s",kt,65.00,265000,4077,2015,3/4,on,hyvä,C
+Etelä-haaga,"3h, k, parveke",kt,69.00,275000,3986,1963,2/3,ei,tyyd.,
+Munkkiniemi,"3h, k, kph, vh,...",kt,77.50,380000,4903,1951,4/6,on,tyyd.,G
+Tapanila,"3h, k, kph, vh,...",kt,64.00,165000,2578,1966,2/3,ei,hyvä,E
+Harju,"3h, avok, kph",kt,67.00,226000,3373,1926,1/5,on,hyvä,
+Kontula,"3h, k, kph, vh,...",kt,72.00,129000,1792,1967,6/8,on,tyyd.,G
+Kontula,"3h, k",kt,73.00,120206,1647,1967,5/7,on,tyyd.,E
+Kurkimäki,"3h, k, kph, las...",kt,74.50,182000,2443,1988,3/3,ei,hyvä,
+Etu-töölö,3h+k,kt,84.00,500500,5958,1935,4/6,on,tyyd.,E
+Oulunkylä,"3h, k",kt,61.00,260000,4262,1956,1/4,ei,hyvä,F
+Vuosaari,"3h, k, kh, eril...",kt,75.00,175000,2333,1971,1/6,on,hyvä,F2007
+Puotinharju,"2-3 h, keittiö...",kt,61.50,210000,3415,1964,1/3,ei,hyvä,F
+Etelä-haaga,"3h, avok., kph,...",kt,64.00,317000,4953,1958,1/3,ei,hyvä,F
+Vallila,3h+k+s+lasitett...,kt,83.50,413400,4951,2013,2/5,on,hyvä,F
+Pihlajamäki,"3h, k ja lasite...",kt,67.50,176000,2607,1963,3/4,ei,hyvä,E2007
+Viikki,"3h, k, s",kt,77.00,310000,4026,2004,2/6,on,hyvä,F
+Ullanlinna,3H+K+parveke,kt,65.50,455000,6947,1956,3/5,ei,hyvä,
+Myllypuro,"3 h, k, kh, p",kt,67.00,149000,2224,1970,4/4,on,tyyd.,F
+Mellunmäki,"3h, k",kt,73.00,149000,2041,1974,1/3,ei,tyyd.,D
+Konala,"3h, k, s",kt,74.50,245000,3289,2012,2/4,on,hyvä,D
+Etelä-haaga,"3h,k,kph,s,wc,p...",kt,86.00,461500,5366,2000,3/4,on,tyyd.,D
+Kontula,"3h, k, kph, par...",kt,65.00,120000,1846,1969,6/9,on,tyyd.,G
+Aurinkolahti,"3h,k,kph,wc,s,p,vh",kt,80.50,340000,4224,2008,3/6,on,hyvä,C
+Kurkimäki,3-4h+k+kph+wc+piha,kt,88.00,202500,2301,1988,1/3,ei,hyvä,E
+Malminkartano,3h+avokeitti...,kt,79.00,223000,2823,1987,2/3,ei,hyvä,
+Katajanokka,"3h, k, kph, eri...",kt,79.00,360000,4557,1982,1/5,on,tyyd.,D2007
+Vallila,"3-4h, kt, s, vh...",kt,80.00,509000,6363,2011,3/6,on,hyvä,C
+Veräjämäki,"3h, k, kph, vh,...",kt,71.00,239000,3366,1964,3/3,ei,tyyd.,E2007
+Arabianranta,3h+k+rt+s+erill...,kt,73.50,410000,5578,2003,3/7,on,hyvä,D2007
+Vuosaari,"3h, k",kt,74.50,165000,2215,1991,3/3,ei,tyyd.,F
+Aurinkolahti,"3h, k, kph, s, ...",kt,79.00,290000,3671,2000,1/7,ei,hyvä,
+Taka-töölö,"3h, k, kph",kt,60.00,428000,7133,1934,2/6,on,hyvä,D2007
+Etu-töölö,"3h, avok, kph, ...",kt,71.00,560000,7887,2011,5/7,on,hyvä,D
+Myllypuro,"3h, k",kt,74.50,172500,2315,1964,2/8,on,tyyd.,E2007
+Lauttasaari,"3h, kk, kph, 2 ...",kt,78.00,365000,4679,1963,1/3,ei,tyyd.,
+Kruununhaka,"3h, k, ph, etei...",kt,89.60,620000,6920,1904,1/5,ei,hyvä,D
+Roihuvuori,"3h, k, kph",kt,69.00,220000,3188,1959,2/4,ei,hyvä,F
+Oulunkylä,"3h, k, s",kt,69.50,240000,3453,1981,2/2,ei,tyyd.,E
+Kulosaari,"3h, k, kph, vh,...",kt,77.50,364400,4702,1960,2/4,on,hyvä,E
+Pajamäki,3h+kk+p,kt,57.00,222000,3895,1958,4/4,on,tyyd.,
+Etelä-haaga,"3h, k, kph, par...",kt,67.00,275000,4104,1959,2/4,ei,hyvä,
+Laajasalo,"3h, k, rt, kph,...",kt,116.00,475000,4095,1972,4/5,on,hyvä,F2007
+Käpylä,"3h, k, kph, par...",kt,66.00,279100,4229,1952,1/4,ei,tyyd.,F2007
+Kannelmäki,3h+k+s,kt,74.00,195000,2635,1991,2/3,ei,tyyd.,F
+Itä-pasila,"3h, k, lasitett...",kt,73.00,249000,3411,1977,3/7,on,tyyd.,E
+Herttoniemenranta,"3h, avok, kph, ...",kt,78.00,392000,5026,2001,2/5,on,hyvä,D
+Kannelmäki,"3h,kk",kt,59.80,216000,3612,1959,3/3,ei,hyvä,
+Taka-töölö,"3h, avokeittiö...",kt,62.00,403000,6500,1939,6/6,on,hyvä,
+Kannelmäki,"3h,k,kph,las.p",kt,71.50,198000,2769,1973,4/4,on,hyvä,
+Itä-pasila,"3h, k, kph, eri...",kt,72.50,245000,3379,1977,4/8,on,tyyd.,
+Aurinkolahti,"3h, k, saunaos,...",kt,73.50,310000,4218,2009,2/6,on,hyvä,D
+Heikinlaakso,3h+k+kph+las.pa...,kt,74.50,195000,2617,1980,1/2,ei,hyvä,D2007
+Näkinpuisto,"3h,k,s",kt,76.50,372600,4871,1985,2/8,on,tyyd.,E
+Etu-töölö,"3h, k, 2 x kph",kt,87.50,595000,6800,1914,2/5,ei,hyvä,G
+Munkkisaari,"3h, avok, kph, ...",kt,88.50,690000,7797,2012,1/8,on,hyvä,B2007
+Harju,"2-4h, k, kph, e...",kt,100.00,500000,5000,1911,5/5,ei,hyvä,
+Oulunkylä,"3h, k, parveke",kt,54.50,261000,4789,1965,2/3,ei,hyvä,D
+Etelä-haaga,"3 h, k, lasitet...",kt,59.50,275000,4622,1960,2/4,on,tyyd.,F
+Maunula,"3h,k,kph,vh,las...",kt,63.50,198000,3118,1959,1/4,on,tyyd.,F
+Munkkivuori,"3h, k, kph, las...",kt,65.00,310000,4769,1958,3/6,on,hyvä,E
+Pohjois-haaga,"3h, k, kph, vh,...",kt,66.00,251000,3803,1956,10/10,on,hyvä,F2007
+Kamppi,"3h, kt, s",kt,73.00,555000,7603,2016,2/7,on,hyvä,
+Taka töölö,2-3 h +k (yhtiö...,kt,74.00,490000,6622,1935,4/7,ei,hyvä,
+Viikki,"3h, k, s/kph, l...",kt,75.50,295000,3907,2004,4/6,on,hyvä,
+Ruskeasuo,"3h, k, kph + s,...",kt,86.50,542000,6266,2007,4/4,on,hyvä,E
+Kruununhaka,3h+kk+halli+wc,kt,102.00,572500,5613,1912,5/5,on,huono,F
+Etelä-haaga,"3h, k, kph, vh,...",kt,56.00,255500,4563,1957,2/3,ei,tyyd.,E2007
+Munkkivuori,"3 h, k, kh, par...",kt,62.50,280000,4480,1957,3/5,ei,hyvä,G
+Arabianranta,"3 h, k, kph, s,...",kt,67.50,385000,5704,2001,1/6,ei,hyvä,
+Etelä-haaga,"3 h, k, kph, vh...",kt,68.00,250000,3676,1962,4/4,ei,hyvä,F2007
+Kontula,"3h, k",kt,72.50,160000,2207,1966,2/7,on,tyyd.,E2007
+Herttoniemenranta,"3h, avok, s, 2x...",kt,72.50,371500,5124,2007,1/7,on,hyvä,E
+Taka-töölö,"3h, k, s, erill...",kt,94.50,520000,5503,1982,4/6,on,tyyd.,
+Vanhakaupunki,"3h, k, kph, p",kt,57.00,262000,4596,1949,4/4,ei,tyyd.,
+Jakomäki,"3h, k, s, parveke",kt,70.00,148000,2114,1988,3/3,ei,tyyd.,E
+Kruununhaka,"3h, kk, erill.w...",kt,76.00,375000,4934,1906,2/4,ei,tyyd.,
+Etelä-haaga,3 h+k+p,kt,60.00,293000,4883,1963,4/4,on,tyyd.,E2007
+Myllypuro,"3 h, k, kph, wc...",kt,78.00,158000,2026,1965,1/4,ei,hyvä,D2007
+Viikki,"3h, k, s",kt,82.50,265000,3212,2006,6/8,on,hyvä,
+Malmi,3h+k+s+ terassi...,kt,85.00,185000,2176,1983,1/4,ei,tyyd.,E
+Roihuvuori,"3h, kk, s",kt,73.50,298900,4067,2017,2/5,on,hyvä,
+Lassila,"3h,k,kph,wc,s,l...",kt,74.50,265000,3557,1981,2/3,ei,hyvä,
+Etelä-haaga,"3h, k, kh, las....",kt,68.00,340000,5000,1964,3/4,on,hyvä,G
+Etu-töölö,"3h, kk, kph",kt,89.00,575000,6461,1927,5/6,on,hyvä,
+Hermanni,3h+k+kph+parveke,kt,69.70,293000,4204,1957,6/6,on,hyvä,
+Taka-töölö,3 H + K+ KPH+ E...,kt,74.00,375000,5068,1955,1/7,ei,hyvä,
+Patola,"3h, k, kph, wc,...",kt,76.50,150000,1961,1972,3/3,ei,tyyd.,
+Punavuori,"3 h, k, kph, s",kt,108.00,643000,5954,1891,1/4,ei,tyyd.,D2007
+Vuosaari,"3h, avokeittiö...",kt,65.50,260000,3969,2012,3/6,on,hyvä,B
+Lauttasaari,"3h, k,kph,vh,pa...",kt,69.00,380000,5507,1958,4/5,on,hyvä,
+Kontula,"3h,k,vh,kph,wc,p",kt,75.00,125000,1667,1967,7/8,on,hyvä,
+Munkkiniemi,"3h, k",kt,92.00,525000,5707,1950,3/6,on,hyvä,
+Munkkiniemi,"3h, keittiö...",kt,114.00,440000,3860,1956,1/4,on,hyvä,
+Kontula,"3h, k",kt,59.50,118000,1983,1966,1/8,on,tyyd.,G
+Koskela,"3h, avok, kph, p",kt,65.00,274000,4215,1941,2/2,ei,hyvä,
+Myllypuro,3h+k,kt,78.00,139000,1782,1965,2/4,ei,tyyd.,F
+Patola,"3h, k, rt, eril...",kt,80.50,195000,2422,1972,3/3,ei,tyyd.,E2007
+Pitäjänmäki,"3 h, k, kph, er...",kt,80.50,215000,2671,1965,2/2,ei,tyyd.,E
+Herttoniemenranta,"3h, k, s, vh, k...",kt,82.00,435500,5311,2001,4/5,on,hyvä,E2007
+Kamppi,"3h, k, aputilat.",kt,164.50,835000,5076,1925,3/7,on,tyyd.,C
+Etelä-haaga,"3h, k, kph, las...",kt,65.00,305000,4692,1964,1/4,ei,hyvä,E2007
+Maunula,"2 mh, oh, k, kp...",kt,69.00,173000,2507,1963,2/4,ei,tyyd.,F
+Jätkäsaari,3-4h+kt+s+parveke,kt,108.50,921100,8489,2015,4/7,on,hyvä,B2007
+Etelä-haaga,"3h, avok., kph,...",kt,63.00,305000,4841,1959,3/3,ei,hyvä,E2007
+Ylä-malmi,"3h, k",kt,69.00,199415,2890,1967,1/3,ei,hyvä,
+Vuosaari,3h+k+terassipar...,kt,75.00,190000,2533,1971,3/6,on,hyvä,
+Laajasalo,"3h, keittiö...",kt,63.50,207000,3260,1966,1/5,on,hyvä,E
+Puotila,"3h, k, parveke",kt,55.50,190000,3423,1961,3/3,ei,hyvä,D
+Puotila,3h+k,kt,66.00,202832,3073,1961,3/3,ei,tyyd.,D
+Pitäjänmäki,"3h, avok., kph,...",kt,68.50,305000,4453,2001,7/8,on,tyyd.,E
+Pohjois-haaga,"3 h, k, kph, p",kt,70.00,285000,4071,1956,8/10,on,hyvä,F2007
+Kulosaari,"3h, k, kph, par...",kt,70.50,340000,4823,1961,1/5,on,hyvä,E2007
+Malminkartano,3h + k + s + p,kt,71.50,180000,2517,1986,1/3,ei,tyyd.,F
+Vuosaari,"3h, k, kph, las.p",kt,74.00,245000,3311,1967,2/7,on,hyvä,E
+Kamppi,"2-3h, avok, kph...",kt,86.00,530000,6163,1908,2/4,on,hyvä,D
+Lauttasaari,"3h, k, kph, las...",kt,95.50,455000,4764,1974,7/7,on,hyvä,D
+Etu-töölö,"3 h, halli, k, ...",kt,103.50,575000,5556,1925,1/8,on,tyyd.,G
+Oulunkylä,"3h, kk, kh, vh, p",kt,53.50,233000,4355,1956,3/4,ei,tyyd.,F
+Pohjois-haaga,"3h, k, kph, vh ...",kt,67.00,210000,3134,1960,3/4,on,tyyd.,F2007
+Kurkimäki,"3h, k",kt,74.50,175000,2349,1988,1/3,ei,tyyd.,E
+Taka-töölö,"3h, k",kt,75.00,390000,5200,1938,6/6,on,hyvä,E
+Etu-töölö,2-3 h + avok. (...,kt,76.40,508000,6649,1920,2/6,on,tyyd.,
+Aurinkolahti,"3-4 h, k, kph, ...",kt,77.00,300000,3896,2001,1/6,on,hyvä,E
+Tali,"3h, avok., s/kp...",kt,93.50,470000,5027,2013,4/7,on,hyvä,
+Ullanlinna,"3h, k kph, eril...",kt,111.40,950000,8528,1906,2/3,on,hyvä,
+Puotila,"3h, k, kph, vh ...",kt,66.00,210000,3182,1961,2/4,ei,hyvä,E2007
+Taka-töölö,"3h, k, halli",kt,79.00,430000,5443,1939,1/3,ei,tyyd.,
+Laajasalo,3 h+k,kt,62.00,204000,3290,1965,3/3,on,tyyd.,F
+Tapaninvainio,3h+k+lasitettu ...,kt,70.50,215000,3050,1980,3/4,ei,hyvä,D
+Laajasalo,"2-3 h, avokeitt...",kt,82.00,266500,3250,1992,4/4,on,hyvä,
+Jollas,"3h, k, s",kt,90.00,440000,4889,2005,1/4,on,hyvä,F
+Kannelmäki,"3h, k, kph, las...",kt,66.00,200000,3030,1958,1/4,ei,hyvä,G
+Etelä-haaga,"3 h, k, lasitet...",kt,67.00,332000,4955,1955,3/3,ei,hyvä,G
+Puotila,"3h, k",kt,68.50,259000,3781,1961,1/3,ei,hyvä,
+Munkkiniemi,3 h + avokeitti...,kt,83.00,310000,3735,1953,4/6,on,tyyd.,E
+Ullanlinna,3h+k+kph+wc,kt,96.00,770000,8021,1935,2/6,on,hyvä,
+Herttoniemi,"3 h, k, kh, parv.",kt,65.00,289000,4446,1954,1/4,ei,tyyd.,F
+Punavuori,"3h, kk, kph, er...",kt,76.00,495000,6513,1931,3/7,on,hyvä,
+Etu-töölö,3h+halli+keitti...,kt,90.50,527000,5823,1928,2/6,on,hyvä,E
+Munkkivuori,3h+k+kh,kt,63.00,265000,4206,1958,4/4,ei, ,G2007
+Puistola,"3 h, k, kh, p",kt,65.00,164000,2523,1976,6/6,on,hyvä,F
+Konala,3h+avok+kph-wc+...,kt,67.00,295000,4403,2011,2/3,on,hyvä,
+Lauttasaari,"3h, keittiö...",kt,69.20,429000,6199,1938,3/4,ei,hyvä,G
+Vallila,"3h, k, kh, saun...",kt,82.00,419000,5110,2013,3/5,on,hyvä,F
+Herttoniemi,"3h, k, kph, las...",kt,72.50,331000,4566,1956,1/4,ei,hyvä,F
+Kamppi,"3h,k,s,khh,wc",kt,164.00,1840000,11220,1891,4/6,on,hyvä,G
+Kallio,3h+avok+kph+s+p...,kt,79.50,465000,5849,2008,5/8,on,hyvä,D
+Munkkivuori,3 - 4 H + K + ...,kt,63.00,297500,4722,1958,2/4,ei,hyvä,
+Kontula,"3h, k, kph, eri...",kt,73.00,107000,1466,1966,2/5,on,huono,F2007
+Lauttasaari,"3 h, k, p",kt,73.00,339000,4644,1974,6/7,on,tyyd.,D
+Vuosaari,3h+k,kt,75.00,185000,2467,1971,5/6,on,hyvä,
+Meilahti,"3h, avok, kph",kt,50.00,287000,5740,1946,3/8,on,hyvä,D
+Itäkeskus,"3h, k,lasitettu...",kt,65.50,195000,2977,1979,4/4,on,tyyd.,E2007
+Maunula,"3h, k",kt,65.50,244000,3725,1957,2/3,ei,hyvä,E
+Vallila,"3h,kk, kph, vh, p",kt,66.50,370000,5564,1953,7/7,on,hyvä,E2007
+Etelä-haaga,"3h, k, kph, par...",kt,69.00,332000,4812,1960,3/4,on,huono,D2007
+Maunula,"3h, k, vh, p",kt,73.50,260000,3537,1962,2/4,on,hyvä,E2007
+Lauttasaari,"3h, avok, vh, k...",kt,83.00,492000,5928,1950,3/4,ei,hyvä,
+Lauttasaari,"3 h, k, p",kt,63.00,295000,4683,1964,1/5,on,tyyd.,F
+Konala,"3h. k, parveke",kt,68.00,192000,2824,1959,3/4,ei, ,F
+Oulunkylä,"3 h, k, kph, va...",kt,69.00,277000,4014,1963,2/3,ei,hyvä,F
+Kannelmäki,"3h, k, kylpyhuo...",kt,69.50,204000,2935,1961,4/4,ei,hyvä,E
+Kontula,"3h, k, kph, eri...",kt,76.00,125000,1645,1968,8/8,on,tyyd.,G
+Oulunkylä,"3h, k, kph, eri...",kt,79.50,200000,2516,1971,3/3,ei,tyyd.,E2007
+Lauttasaari,"3h, avok, kph, ...",kt,60.50,331000,5471,1974,5/7,on,hyvä,F
+Töölö,3h + avok + khh...,kt,100.00,685000,6850,1954,7/7,on,hyvä,D
+Etu-töölö,"3 h, k, halli, ...",kt,108.00,798000,7389,1913,2/5,ei,hyvä,G
+Aurinkolahti,"3 h, kk, kph, s...",kt,63.50,310000,4882,2008,4/9,on,hyvä,
+Etu töölö,3h+kk,kt,80.00,491000,6138,1934,7/7,ei,tyyd.,
+Kamppi,"3h, k, 2 kylpyh...",kt,82.00,651000,7939,2009,4/8,on,hyvä,F
+"Munkkivuori, munkkiniemi","3h, k, p",kt,68.00,230000,3382,1962,4/4,ei,tyyd.,
+Lassila,"3h, k, kph, par...",kt,63.50,242000,3811,1980,3/4,ei,hyvä,E2007
+Aurinkolahti,"3h, kk, s",kt,63.50,288000,4535,2007,3/6,on,hyvä,C
+Vuosaari,3h+k,kt,68.70,164000,2387,1964,3/4,on,tyyd.,
+Lauttasaari,"3 h, k, s, p",kt,72.50,508000,7007,2014,6/8,on,hyvä,A
+Munkkiniemi,3 h+k+kph+parv.,kt,66.00,391000,5924,1951,2/5,on,hyvä,D
+Kannelmäki,3h+k+p,kt,60.40,195000,3228,1960,4/4,ei,tyyd.,E2007
+Vuosaari,"3h, k, kph, eri...",kt,75.00,179000,2387,1971,5/6,on,hyvä,
+Herttoniemenranta,3h+k+p+s,kt,83.00,507000,6108,2000,5/5,on,hyvä,F
+Lauttasaari,"3h, k",kt,83.50,540000,6467,1969,2/2,ei,hyvä,D
+Lauttasaari,"3h, k, kph, vh,...",kt,58.00,365000,6293,1970,5/7,on,hyvä,E2007
+Vuosaari,"3h, k",kt,68.70,200000,2911,1964,3/5,on,hyvä,
+Pohjois-haaga,"3h, k, kph, vh ...",kt,71.00,274000,3859,1954,1/3,ei,tyyd.,
+Munkkiniemi,"3h, k, kh, lasi...",kt,72.00,370000,5139,1962,2/4,on,tyyd.,
+Munkkiniemi,"3h, k, kph, par...",kt,73.00,383000,5247,1957,2/4,on,hyvä,G
+Kontula,"3h, k, vh, kph,...",kt,75.00,128000,1707,1965,1/3,ei,hyvä,E
+Puotila,"3-4 h, k, kph, ...",kt,83.00,210000,2530,1963,4/4,on,tyyd.,D
+Pihlajamäki,"3 h, k, kh, wc,...",kt,84.00,140000,1667,1964,1/4,ei,tyyd.,E2007
+Katajanokka,"3h, k, kph, WC",kt,102.00,640000,6275,1906,1/4,ei,hyvä,
+Kannelmäki,"3h, k, kph, par...",kt,60.00,155000,2583,1958,2/3,ei,tyyd.,G2012
+Kontula,"3 h, k, kph, p",kt,61.50,155000,2520,1965,1/2,ei,hyvä,G2007
+Siltamäki,2 mh+oh+k+kph+v...,kt,63.50,137000,2157,1969,3/3,ei,tyyd.,F
+Pohjois-haaga,"3 h, k, kph, p",kt,66.00,246000,3727,1956,6/10,on,tyyd.,G
+Vuosaari,"3h, k, kph, par...",kt,70.00,200000,2857,1966,2/3,ei,hyvä,E2007
+Laajasalo,3h+k+p,kt,71.00,225000,3169,1973,2/3,ei,hyvä,
+Alppiharju,"3h, k, p",kt,72.00,360000,5000,1939,3/6,on,tyyd.,
+Punavuori,"3h, k, halli, k...",kt,72.00,420000,5833,1911,4/4,ei,tyyd.,
+Oulunkylä,"3h, k, s, kph, ...",kt,73.00,270000,3699,1983,2/2,ei,hyvä,D2007
+Etu-töölö,"3 h, avok, kph",kt,81.00,555000,6852,1927,2/6,on,hyvä,E
+Sörnäinen,"3-4 h, avokeitt...",kt,113.00,455000,4027,1935,1/8,on,hyvä,E
+Punavuori,"3h, k, parveke",kt,64.00,450000,7031,1961,2/8,on,tyyd.,E2007
+Lauttasaari,"3 h, k, p",kt,68.00,320000,4706,1962,2/4,on,tyyd.,F
+Lauttasaari,"3h, k, kph, las...",kt,71.50,325000,4545,1977,6/6,on,hyvä,E
+Kannelmäki,"3h, k, kph, par...",kt,71.90,234000,3255,1958,1/8,ei,hyvä,
+Taka-töölö,"3 h, k, halli, kph",kt,80.00,515000,6438,1942,3/3,ei,tyyd.,E2007
+Taka-töölö,"3-4h, k, parveke",kt,85.00,570000,6706,1954,7/7,on,huono,G
+Herttoniemi,3h+k,kt,65.00,292000,4492,1956,4/4,ei,tyyd.,E2007
+Itä-pakila,"3 h, k, kh",kt,65.50,215000,3282,1962,1/2,ei,tyyd.,
+Käpylä,"3h, k, kph",kt,69.00,347000,5029,1924,2/2,ei,hyvä,G2007
+Myllypuro,"3h, k, kph, vh, p",kt,74.00,157000,2122,1965,2/8,on, ,F
+Käpylä,"3h, kk, s, lasi...",kt,74.00,335000,4527,2003,4/5,on,hyvä,C
+Länsi-pasila,"3h,avok, kph, p",kt,74.50,280000,3758,1983,3/7,on,tyyd.,D
+Vallila,3h+k,kt,83.00,328000,3952,1968,1/7,ei,hyvä,
+Kamppi,"3h, k, kph/wc, wc",kt,106.50,660000,6197,1912,4/4,on,tyyd.,
+Lauttaaari,"3h,k, parveke",kt,69.00,290000,4203,1958,2/5,ei,tyyd.,
+Viikki,"3 h, kk, s, p",kt,63.00,274024,4350,2015,3/4,on,hyvä,
+Alppila,"3h, k, s, p",kt,63.00,382000,6063,2007,4/5,on,hyvä,F
+Aurinkolahti,"3h, kk, s, p",kt,71.00,334000,4704,2008, ,on,hyvä,
+Jätkäsaari,3 h+k+s+ terass...,kt,75.00,576800,7691,2016,3/7,on,hyvä,C
+Kamppi,"3h, k, erill. w...",kt,75.50,405000,5364,1979,3/6,on,tyyd.,F
+Käpylä,"3 h, k, kph, et...",kt,66.00,305000,4621,1952,4/4,ei,tyyd.,
+Etu-kallio,"3h, k, p",kt,68.00,320100,4707,1970,3/6,on,tyyd.,G
+Munkkiniemi,"3h, kk, kph, ra...",kt,57.50,328500,5713,1957,3/6,on,hyvä,G
+Vuosaari,"3h,k,kph,wc,par...",kt,71.00,157845,2223,1972,2/8,on,tyyd.,E2007
+Itäkeskus,"3h, k, kph, vh,...",kt,74.50,166000,2228,1977,2/5,on,tyyd.,
+Etu-töölö,"3h, k, s, parve...",kt,103.00,730000,7087,2016,3/8,on,hyvä,C
+Kontula,"3h, k, kph, las...",kt,73.50,149085,2028,1967,4/7,on,hyvä,E
+Kluuvi,"3h, avok, kh,s,...",kt,74.50,765000,10268,2013,2/6,on,hyvä,C2007
+Kamppi,3h+avok+kph+2wc...,kt,77.30,505000,6533,1926,2/5,on,hyvä,D2007
+Taka-töölö,"3h, k, kph, p",kt,99.70,678524,6806,1939,4/5,on,hyvä,F
+Meilahti,"3h, k, kph,",kt,54.00,319500,5917,1945,4/7,ei,hyvä,
+Lauttasaari,"3h, k, kph, las...",kt,68.50,251000,3664,1963,2/4,on,tyyd.,E2007
+Oulunkylä,"3h, k, p",kt,76.00,163000,2145,1972,3/3,ei,tyyd.,E
+Töölö,"3h, k, alk, p",kt,90.00,441500,4906,1937,4/6,on,tyyd.,D
+Kontula,3h,kt,59.50,126000,2118,1966,7/8,on,hyvä,G
+Konala,"3h, avok., kph,...",kt,68.00,194000,2853,1960,3/3,ei,hyvä,
+Vuosaari,"3h, k, kph, las...",kt,68.70,180000,2620,1964,1/3,on,hyvä,
+Malminkartano,"3h, k, kph-wc, ...",kt,75.00,163000,2173,1988, ,ei,hyvä,
+Etu-töölö,"3h, keittiö...",kt,110.00,750000,6818,1928,3/6,on,hyvä,F
+Taka-töölö,3h + avok + kph...,kt,64.00,430000,6719,1937,1/6,on,hyvä,D2007
+Lauttasaari,"3 h, k, kph, la...",kt,68.50,275000,4015,1974,1/8,on,hyvä,
+Laakso,3h+k+kph/wc+p,kt,55.50,335000,6036,1950,3/8,on,hyvä,D
+Munkkivuori,"3h, k, las. p",kt,62.50,260000,4160,1957,2/5,ei,tyyd.,G
+Savela,"3h, k, lasitett...",kt,74.50,191000,2564,1978,1/4,ei,tyyd.,
+Pihlajisto,"3h, k, kph, eri...",kt,77.50,121600,1569,1971,7/7,on,tyyd.,
+Taka-töölö,"3-4h, k, palv.h...",kt,97.00,552000,5691,1938,2/7,on,tyyd.,F
+Laajasalo,"3h, k, kph, vh, p",kt,63.00,249000,3952,1965,3/4,on,hyvä,
+Vartiokylä,"3h, k, kph, par...",kt,70.00,215000,3071,1969,2/2,ei,hyvä,
+Maunula,"3 h, k, kh, vh, p",kt,69.00,208000,3014,1963,4/4,ei,hyvä,F
+Pukinmäki,"3 h, k, kph, s,...",kt,69.50,194000,2791,1980,3/5,on,tyyd.,F
+Laajasalo,"3h, k, kph, vh,...",kt,72.00,270000,3750,1966,3/3,ei,hyvä,E2007
+Käpylä,"3 h, k, kh, p",kt,76.50,305000,3987,1951,3/4,ei,tyyd.,E2007
+Viikki,"3h, avok, kph, ...",kt,69.50,284000,4086,2004,2/6,on,hyvä,
+Koskela,"3 huonetta, kei...",kt,78.00,208000,2667,1972,5/6,on,hyvä,D2007
+Munkkiniemi,"3 h, k, kh, eri...",kt,124.00,510000,4113,1937,1/4,ei,tyyd.,F
+Oulunkylä,3h+k,kt,61.00,258000,4230,1956,4/4,ei,hyvä,F
+Vartiokylä,3h+k+kph+lasit....,kt,60.00,154000,2567,1979,2/2,ei,tyyd.,
+Hermanni,"3h,k,kp,s,parve...",kt,72.50,409000,5641,2008,5/5,on,hyvä,E
+Herttoniemenranta,"3-4h, k, s/kph,...",kt,91.50,422000,4612,2010,6/6,on,hyvä,
+Kannelmäki,"3h,k,kph,parveke",kt,60.00,188000,3133,1958,4/4,ei,hyvä,G
+Hakaniemi,"3h, k, kph, las...",kt,61.00,330000,5410,1986,6/7,on,hyvä,
+Malminkartano,"3h, k, kph-wc, ...",kt,70.00,171000,2443,1980,4/4,on,hyvä,
+Malminkartano,"3h, k, s, p",kt,70.00,184000,2629,1985,2/4,on,hyvä,F
+Vuosaari,"3h, k, wc",kt,74.50,169000,2268,1991,1/3,ei,tyyd.,E2007
+Vuosaari,3h+k,kt,76.50,210000,2745,1980,2/4,ei,hyvä,F
+Länsi-pakila,"3-4 h, k, kph, ...",kt,106.00,270000,2547,1971,3/3,ei,tyyd.,E2007
+Etelä-haaga,"3h, k, p",kt,65.00,219000,3369,1962,3/4,on,tyyd.,E
+Oulunkylä,"3h, k, kph, vh,...",kt,65.00,259000,3985,1963,1/3,ei,hyvä,E
+Meri-rastila,3H+K+lasitettu ...,kt,75.00,189000,2520,1991,3/3,ei,hyvä,E
+Taka-töölö,"3-4 h, k, kh, v...",kt,75.50,440000,5828,1982,4/6,on,tyyd.,E
+Kivikko,3h+k+s,kt,76.00,198714,2615,1999,1/4,on,hyvä,F
+Munkkiniemi,"3h, k, kph, eri...",kt,84.80,387000,4564,1956,2/4,on,tyyd.,
+Punavuori,"2-3 h, avok, rt...",kt,66.50,460000,6917,1939,2/5,on,hyvä,
+Pikku-huopalahti,"3 h, k, rt, kh,...",kt,77.50,270000,3484,1991,4/5,on,tyyd.,D2007
+Tapanila,"3h, k, kph, vaa...",kt,57.00,166000,2912,1972,2/3,ei,hyvä,F
+Viikki,"3h, k, s, p",kt,79.00,315000,3987,2001,2/6,ei,hyvä,
+Vallila,"3h, avok, kph",kt,58.00,340000,5862,1927,3/4,ei,hyvä,
+Meilahti,"3h, k, kph",kt,67.50,340000,5037,1946,4/6,on,tyyd.,E
+Kannelmäki,"3h, k, kph, vh,...",kt,60.40,199000,3295,1960,3/4,ei,hyvä,E2007
+Kallio,"3h, k",kt,67.00,299000,4463,1959,4/6,on,tyyd.,G2007
+Lauttasaari,"3 h, avok, kph,...",kt,73.50,374000,5088,1980,5/6,on,hyvä,E2007
+Pitäjänmäki,"3h, k, rt, kph,...",kt,74.00,312000,4216,2001,4/8,on,tyyd.,E
+Käpylä,"3h, k, kph, par...",kt,67.50,270000,4000,1952,3/3,ei,tyyd.,F2007
+Lauttasaari,"3h, k, kph, wc, rt",kt,68.20,380000,5572,1938,4/4,ei,tyyd.,G
+Vallila,"3h, k, kph, s j...",kt,82.00,425000,5183,2013,3/5,on,hyvä,F
+Kamppi,"3-4h, k, kph, p...",kt,69.50,330000,4748,1971,3/5,on,tyyd.,G
+Vuosaari,"3h, k, kph",kt,70.00,200000,2857,1967,3/3,ei,hyvä,
+Hermanni,"3h, k, kph, par...",kt,70.00,317500,4536,1956,1/4,on,hyvä,
+Ruoholahti,"3h, k, s, erill...",kt,75.50,393977,5218,1995,3/6,on,hyvä,C2007
+Sörnäinen,"3h,k,kp,vh,lasi...",kt,68.50,244000,3562,1965,6/7,on,huono,D
+Vuosaari,"3h, k, kph, eri...",kt,68.70,184000,2678,1964,3/5,on,hyvä,
+Merihaka,3h+k,kt,77.00,366356,4758,1977,2/8,on,huono,
+Ruskeasuo,"3h, avok, kph, ...",kt,61.00,361000,5918,1955,2/3,ei,hyvä,G
+"Alppila, vallila",3h+k+sauna+lasi...,kt,61.50,390000,6341,2014,6/6,ei,hyvä,
+Roihuvuori,3h+k,kt,68.00,189000,2779,1965,8/8,on,tyyd.,E
+Etu-töölö,"3h, k, halli, k...",kt,105.50,698000,6616,1928,4/6,on,hyvä,F
+Taka-töölö,3h+k+ph+parv+ns...,kt,106.50,619000,5812,1938,6/7,on,hyvä,D2007
+Pihlajamäki,"3-4h,k",kt,68.00,168000,2471,1963,3/3,ei,tyyd.,F
+Lauttasaari,"3h, k, kph, p",kt,63.00,357600,5676,1956,2/4,on,hyvä,E
+Konala,"3h,avok,rt,kph,...",kt,71.00,194000,2732,1985,2/2,ei,tyyd.,
+Oulunkylä,3h+k+s+kattoter...,kt,82.50,440000,5333,2013,5/5,on,hyvä,A2007
+Etelä-haaga,"2-3h, k, parveke",kt,63.00,307500,4881,1964,2/4,ei,hyvä,E2007
+Punavuori,"3h, k, rt, kph",kt,71.00,460000,6479,1891,1/4,ei,hyvä,D
+Pitäjänmäki,"3h, avok., kph,...",kt,77.00,320000,4156,2001,3/8,on,tyyd.,E
+Aurinkolahti,"3h,kt,s",kt,83.50,397657,4762,2017,5/7,ei,hyvä,C
+Sörnäinen,"3h,k,kp,s,vh,halli",kt,89.50,434000,4849,1935,3/8,on,hyvä,E
+Aurinkolahti,3h+k+s,kt,95.00,490000,5158,2008,8/9,on,hyvä,C2007
+Aurinkolahti,"3h, kk, s,",kt,62.50,315000,5040,2006,3/7,on,hyvä,F
+Aurinkolahti,"3 huonetta, kei...",kt,81.00,420000,5185,2013,3/5,ei,hyvä,A
+Pajamäki,2-3 h+k+ p,kt,57.00,221000,3877,1958,3/4,ei,hyvä,
+Etelä-haaga,3h+k+p,kt,70.00,234500,3350,1962,3/4,on,tyyd.,E2007
+Malmi,3h+k+kph+las.pa...,kt,70.50,155000,2199,1967,1/3,ei,tyyd.,E
+Herttoniemi,"3 h, k, kph, pa...",kt,53.00,240000,4528,1951,2/4,ei,tyyd.,E
+Pohjois-haaga,"3h, k, vh, kph ...",kt,62.00,235000,3790,1957,1/3,ei,tyyd.,G
+Vuosaari,"3h, k",kt,66.00,206000,3121,1965,3/5,on,hyvä,
+Kallio,"3h, k, kph, par...",kt,67.00,286000,4269,1959,5/8,on,tyyd.,F2007
+Lassila,"3h, k, s, kph, ...",kt,69.00,250000,3623,1985,1/3,ei,tyyd.,F2007
+Etelä-haaga,"3h, k, kph, p",kt,72.00,265000,3681,1970,4/4,on,tyyd.,D2007
+Kallio,"3h, k, et., kph...",kt,83.00,389720,4695,1929,2/7,on,tyyd.,E
+Aurinkolahti,"3h, kt, s, lasi...",kt,88.00,451930,5136,2016,2/5,on,hyvä,
+Pitäjänmäki,"3h, k, lasitett...",kt,63.00,151000,2397,1974,2/5,on,tyyd.,F
+Tapanila,"3 h, k, lasitet...",kt,65.00,168000,2585,1974,3/3,ei,hyvä,F2015
+Pitäjänmäki,3 h + k + kph +...,kt,66.00,144000,2182,1963,1/3,ei,tyyd.,G
+Koskela,3h+k+kph+vh+las...,kt,73.90,219000,2963,1973,6/6,on,hyvä,G
+Töyrynummi,"3h, k, kph, s, ...",kt,76.00,183000,2408,1995,2/2,ei,tyyd.,D
+Lauttasaari,"3h, k, kph, wc,...",kt,79.00,447000,5658,1970,4/7,on,hyvä,E
+Lassila,"3 h, k, s",kt,80.00,270000,3375,1984,1/5,on,hyvä,D
+Siltamäki,"3h,k,p",kt,80.50,160000,1988,1968,2/3,ei,hyvä,G
+Puotila,"3h, k, kph, par...",kt,60.00,205000,3417,1961,2/3,ei,hyvä,
+Meilahti,3 H + AVOK + KP...,kt,60.00,346000,5767,1945,2/7,ei,hyvä,
+Puotila,"3h,k",kt,62.00,225000,3629,1961,2/3,ei,hyvä,E2007
+Malmi,"3h, avok, kph, ...",kt,64.50,175000,2713,1983,2/4,ei,tyyd.,E
+Kannelmäki,"3h, k, kph, s, ...",kt,69.00,332000,4812,2008,3/5,on,hyvä,C2007
+Pajamäki,"3h, k, kph, p",kt,70.70,268000,3791,1960,3/4,ei,hyvä,E2007
+Lauttasaari,"3h,k (yhtiö...",kt,74.00,400000,5405,1950,2/4,ei,hyvä,
+Kalasatama,"3h, kt, s",kt,79.00,466500,5905,2013,3/6,on,hyvä,
+Töölö,3h+k+kph+halli,kt,82.00,461000,5622,1937,2/6,on,hyvä,C
+Etu-töölö,"3 h, k, s, lasi...",kt,120.50,534500,4436,2014,2/7,on,hyvä,A2007
+Lauttasaari,"3h,k,kph,parv. ...",kt,56.00,307500,5491,1951,3/4,ei,hyvä,
+Vuosaari,"3h, k, kph/s, e...",kt,73.00,233000,3192,1994,5/5,on,hyvä,F
+Oulunkylä,"3h, k, kph,las....",kt,79.00,299000,3785,1964,3/3,ei,hyvä,F
+Herttoniemi,"3h, kt, s, vh, ...",kt,79.00,354000,4481,2017,4/8,on,hyvä,C
+Kamppi,"3h, halli, k, k...",kt,80.30,463000,5766,1936,2/5,on,tyyd.,E2007
+Lauttasaari,"3 h, k, halli, ...",kt,88.00,455000,5170,1937,2/5,on,hyvä,F
+Myllypuro,"3h,k, lasitettu...",kt,67.50,125000,1852,1965,1/4,ei,tyyd.,
+Munkkivuori,"3h, k, kph, par...",kt,61.50,245000,3984,1958,2/3,ei,hyvä,
+Pitäjänmäki,"3h, k, kph, las...",kt,62.50,189000,3024,1975,3/4,on,hyvä,E2007
+Lassila,"3h, k, kh/sauna...",kt,69.50,260000,3741,1986,3/3,ei,tyyd.,E2007
+Taka-töölö,"3h,avok,kph,wc,vh",kt,70.00,460000,6571,1936,5/6,on,hyvä,G
+Vesala,"3h, k",kt,75.00,154000,2053,1991,2/3,ei,tyyd.,E
+Lauttasaari,"3h, keittiö...",kt,86.00,465000,5407,1956,3/5,on,hyvä,E
+Etu-töölö,"2 h, k, halli, kph",kt,94.70,675000,7128,1920,6/6,on,hyvä,C2007
+Kamppi,"3 h, kt, s",kt,61.50,479000,7789,2016,2/7,on,hyvä,
+Meilahti,"3h, k, halli, kph",kt,63.00,345000,5476,1950,2/8,on,hyvä,D2007
+Länsi-pasila,"3h, k, kp, kodi...",kt,72.50,398750,5500,2013,1/5,on,hyvä,A
+Herttoniemenranta,"3h, k, kph, s, ...",kt,75.00,319000,4253,2002,1/5,on,hyvä,D
+Jätkäsaari,3h + k + kph + ...,kt,76.50,695000,9085,2016,4/7,on,hyvä,C
+Taka-töölö,"3h, k, kph",kt,70.00,424000,6057,1938,6/7,on,hyvä,D2007
+Lauttasaari,"3 h, k, parveke",kt,73.50,332000,4517,1989,5/5,on,hyvä,
+Itä-pakila,"3h,k,vh,p",kt,74.00,186000,2514,1965,2/3,ei,tyyd.,E2007
+Kruununhaka,"3h, kt, kph, s,...",kt,83.50,602000,7210,1850,1/4,on,hyvä,E
+Malmi,"3h, k, kph/s, e...",kt,79.50,233000,2931,1986,2/3,ei,hyvä,E
+Vuosaari,3h+k+s+terassipiha,kt,81.00,306500,3784,2012,1/6,on,hyvä,B
+Käpylä,"3 h, k, kph, wc, p",kt,61.50,238000,3870,1952,3/4,ei,huono,F2007
+Suurmetsä,"3h, avok, kph, ...",kt,78.50,178000,2268,1971,2/3,ei,hyvä,D2007
+Kallio,"3h,kk,kh,lasite...",kt,59.50,240000,4034,1959,3/7,on,tyyd.,F
+Vuosaari,"3h, k, kph, eri...",kt,70.00,173000,2471,1968,1/5,on,tyyd.,E
+Arabianranta,"3h,avok,sauna,k...",kt,80.50,498000,6186,2005,5/6,on,hyvä,E2007
+Vuosaari,"3h,k,kph,p",kt,79.00,188000,2380,1965,3/3,ei,tyyd.,E2007
