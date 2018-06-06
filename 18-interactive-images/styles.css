@@ -1,0 +1,31 @@
+.overlay-container {
+  position: relative;
+  width: 94%;
+  max-width: 300px; /* make sizing decisions here, like width */
+  margin: 20px auto;
+  cursor: pointer; /* hint for the user that it's clickable */
+}
+
+.overlay-container img {
+  width: 100%;
+  display: block;
+}
+
+.overlay {
+  box-sizing: border-box;
+  padding: 10px;
+  color:  white;
+  top: 0px;
+  bottom: 0px;
+  width: 100%;
+  position: absolute;
+  background: rgba(0,0,0,0.5);
+  opacity: 0; /* by default the overlay is not shown */
+  transition: opacity 1s; /* changes to opacity will be animated */
+}
+
+/* could also use this last part for simple hover effect without JavaScript */
+
+/* .overlay-container:hover .overlay {
+  opacity: 1;
+} */
